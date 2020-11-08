@@ -1,1 +1,1 @@
-# PythonFall2020
+# a repository for weekly programming assignments
